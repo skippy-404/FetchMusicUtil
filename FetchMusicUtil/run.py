@@ -15,5 +15,4 @@ if URL_list:
         download_mp4(URL, song_name)
 else:
     print(f'未找到 {song_name} 的有效下载链接，跳过下载。')
-# from playsound import playsound
-# playsound('1901371647.mp3')
+    
